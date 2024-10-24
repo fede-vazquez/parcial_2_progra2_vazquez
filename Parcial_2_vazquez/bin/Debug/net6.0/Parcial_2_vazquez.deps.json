@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Parcial_2_vazquez/1.0.0": {
+        "runtime": {
+          "Parcial_2_vazquez.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Parcial_2_vazquez/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\fvazquez\Desktop\repos\Parcial_2_vazquez\Parcial_2_vazquez\bin\Debug\net6.0\Parcial_2_vazquez.exe
+C:\Users\fvazquez\Desktop\repos\Parcial_2_vazquez\Parcial_2_vazquez\bin\Debug\net6.0\Parcial_2_vazquez.deps.json
+C:\Users\fvazquez\Desktop\repos\Parcial_2_vazquez\Parcial_2_vazquez\bin\Debug\net6.0\Parcial_2_vazquez.runtimeconfig.json
+C:\Users\fvazquez\Desktop\repos\Parcial_2_vazquez\Parcial_2_vazquez\bin\Debug\net6.0\Parcial_2_vazquez.dll
+C:\Users\fvazquez\Desktop\repos\Parcial_2_vazquez\Parcial_2_vazquez\bin\Debug\net6.0\Parcial_2_vazquez.pdb
+C:\Users\fvazquez\Desktop\repos\Parcial_2_vazquez\Parcial_2_vazquez\obj\Debug\net6.0\Parcial_2_vazquez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fvazquez\Desktop\repos\Parcial_2_vazquez\Parcial_2_vazquez\obj\Debug\net6.0\Parcial_2_vazquez.AssemblyInfoInputs.cache
+C:\Users\fvazquez\Desktop\repos\Parcial_2_vazquez\Parcial_2_vazquez\obj\Debug\net6.0\Parcial_2_vazquez.AssemblyInfo.cs
+C:\Users\fvazquez\Desktop\repos\Parcial_2_vazquez\Parcial_2_vazquez\obj\Debug\net6.0\Parcial_2_vazquez.csproj.CoreCompileInputs.cache
+C:\Users\fvazquez\Desktop\repos\Parcial_2_vazquez\Parcial_2_vazquez\obj\Debug\net6.0\Parcial_2_vazquez.dll
+C:\Users\fvazquez\Desktop\repos\Parcial_2_vazquez\Parcial_2_vazquez\obj\Debug\net6.0\refint\Parcial_2_vazquez.dll
+C:\Users\fvazquez\Desktop\repos\Parcial_2_vazquez\Parcial_2_vazquez\obj\Debug\net6.0\Parcial_2_vazquez.pdb
+C:\Users\fvazquez\Desktop\repos\Parcial_2_vazquez\Parcial_2_vazquez\obj\Debug\net6.0\Parcial_2_vazquez.genruntimeconfig.cache
+C:\Users\fvazquez\Desktop\repos\Parcial_2_vazquez\Parcial_2_vazquez\obj\Debug\net6.0\ref\Parcial_2_vazquez.dll
